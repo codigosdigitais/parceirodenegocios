@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*estilo em botões e componentes*/
+table .btn-remover {/*, table .btn-danger, .btn-info, .tip-top*/ 
+	padding:3px;
+	width:32px !important; 
+	border: 1px solid #ccc;
+	color: #000;
+	text-shadow: none;
+	background-color: #f5f5f5;
+    background-image: -moz-linear-gradient(top, #fff, #e6e6e6);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fff), to(#e6e6e6));
+    background-image: -webkit-linear-gradient(top, #fff, #e6e6e6);
+    background-image: -o-linear-gradient(top, #fff, #e6e6e6);
+    background-image: linear-gradient(to bottom, #fff, #e6e6e6);
+    background-repeat: repeat-x;
+    border: 1px solid #ccc;
+    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-bottom-color: #b3b3b3;
+}
+/*.btn-danger .icon-remove:before { content: "\f014";}*/
+/*.icon-pencil:before {content: "\f022";}*/
+.btn-remover-form{background-color: #8A1B1B !important;}
+.btn-alterar  {padding:3px;width:88px !important;color:#333;margin-right:2px;}/*.btn-info*/
+/*.btn-info {width:80px !important;}*/
+.btn-alterar i{margin-right:10px;}/*, .btn-info i*/
+.btn-alterar label, .btn-info label{width:auto !important;margin:0 !important;padding:0 !important;line-height:normal !important;font-size:12px !important;}
+.btn-alterar:hover, .btn-remover:hover, .btn-danger:hover, , .btn-info:hover {background-color:#C1DDF1;}
+#btn-novo-inserir{margin-top: 10px;/*background-color: #7ACECA;*/}
+.form-inline label {width:auto !important;}
+label {line-height:none !important;margin-right:auto !important;}
+input[disabled], select[disabled], textarea[disabled], input[readonly], select[readonly], textarea[readonly]{background-color: #F9F9F9;}
+
+input, select, .chosen-container-single .chosen-single {border-radius: 4px !important;}
+/*.btn-info:after {content: 'Alterar'; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;};*/
+
+
+label[class="error"] {color: #DA1B1B;font-size: 11px;font-weight: bold;}
+
+
+/*estilo botoes on-off*/
+.btn-on-enabled{background-color: #466A8A;cursor: pointer;color: white;text-shadow: none;}
+.btn-off-enabled{background-color: #D20707; cursor: pointer; color: #E2E2E2; text-shadow: none;}
+
+.btn-on-enabled:hover{background-color: #354969;color: white;}
+.btn-off-enabled:hover{background-color: #B60707;color: #E2E2E2;}
+
+.btn-on-disabled:hover{background-color: #f5f5f5;}
+.btn-off-disabled:hover{background-color: #f5f5f5;}
+
+/*janela de informações*/
+.alert-success{color:#FFFFFF;background-color:#38C1BB;border-color:#d6e9c6;font-size:13px;font-weight:bold;text-shadow:none;margin-bottom:5px;display:none;position:absolute;z-index:9;box-shadow:2px 2px #333333;box-shadow: 0px 4px 4px #C1C1C1;}
+
+/*estilo em tabelas*/
+.table th, .table td {padding:4px;vertical-align: middle !important;line-height:25px;padding-left: 7px;}
+.table th {font-size: 12px;}
+.tr_editando {background-color: rgb(255, 241, 172);}
+.tr_editando:hover {background-color: rgb(255, 241, 172);text-align: right;}
+.alignR{text-align: right;}
+
+/*.table-bordered th:last-of-type {width: 175px !important;}*/
+
+/*estilo em widgets e components*/
+.widget-title, .modal-header, .table th, div.dataTables_wrapper .ui-widget-header{background: #F3F3F3;}
+.widget-content {background-color:#FFF;}
+.btn-primary {background-color: #466A8A;}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled]{background-color: #466A8A;}
+.btn-primary:hover{background-color: #37546D;}
+#content {background-color:#FFF;}
+#header {background-color: #0C1015;}
+.widget-box{background: none;}
+
+/*menu lateral*/
+#sidebar > ul {width:230px;}
+#content {margin-left:230px;}
+#sidebar > ul > li {line-height:15px;}
+#sidebar > ul > li > a > .label {background-color: transparent;}
+#sidebar > ul > li > a{color:#E8E8E8;font-size:12px;}
+#sidebar > ul > li > a > i {font-size:18px;}
+#sidebar > ul li ul li a:hover{background-color:#8B979C;}
+#sidebar > ul li ul li:last-child a {font-size:12px;}
+#sidebar > ul > li.active {background-color: #7C97A2;border-bottom: 1px solid #27a9e3;border-top: 1px solid #FFF;}

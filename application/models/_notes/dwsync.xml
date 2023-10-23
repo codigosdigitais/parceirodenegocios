@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="adicionaisc_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131026056875939841" remote="131061186600000000" Dst="1" />
+<file name="adicionais_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131026057007980819" remote="131061186600000000" Dst="1" />
+<file name="administrando_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131013446085106139" remote="131061186600000000" Dst="1" />
+<file name="atrasos_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="130948620440000000" remote="131061186600000000" Dst="1" />
+<file name="bairro_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131023624965043520" remote="131061186600000000" Dst="1" />
+<file name="cedentes_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131022614066119579" remote="131061186600000000" Dst="1" />
+<file name="boleto_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="130929717720000000" remote="131061186600000000" Dst="1" />
+<file name="chamadaexterna_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131046877253956924" remote="131061186600000000" Dst="1" />
+<file name="chamadas_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131045130226680354" remote="131061186600000000" Dst="1" />
+<file name="cidade_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131023621218753478" remote="131061186600000000" Dst="1" />
+<file name="clienteexterno_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="130937060540000000" remote="131061186600000000" Dst="1" />
+<file name="clientes_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131023604313925323" remote="131061186600000000" Dst="1" />
+<file name="descontos_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131026066955774138" remote="131061186600000000" Dst="1" />
+<file name="contratos_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131024631765797393" remote="131061186600000000" Dst="1" />
+<file name="documentos_externo_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131030423046300016" remote="131061186600000000" Dst="1" />
+<file name="documentos_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131044166812462492" remote="131061186600000000" Dst="1" />
+<file name="entrega_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131024596172207930" remote="131061186600000000" Dst="1" />
+<file name="externo_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131044472531817825" remote="131061186600000000" Dst="1" />
+<file name="faltas_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131026069829277123" remote="131061186600000000" Dst="1" />
+<file name="fechamentos_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="130927491280000000" remote="131061186600000000" Dst="1" />
+<file name="financeiro_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131026183441553458" remote="131061186600000000" Dst="1" />
+<file name="financiamento_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131025326119462921" remote="131061186600000000" Dst="1" />
+<file name="fornecedores_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131023606684287648" remote="131061186600000000" Dst="1" />
+<file name="funcionarioexterno_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="130956242333470000" remote="131061186600000000" Dst="1" />
+<file name="funcionario_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131030368135486673" remote="131061186600000000" Dst="1" />
+<file name="index.html" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="130827730860000000" remote="131061186600000000" Dst="1" />
+<file name="holerites_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131026071523594854" remote="131061186600000000" Dst="1" />
+<file name="logs_modelclass.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131014881641659840" remote="131061186600000000" Dst="1" />
+<file name="paramemprestimos_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131022619332528295" remote="131061186600000000" Dst="1" />
+<file name="parametro_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="130948622300000000" remote="131061186600000000" Dst="1" />
+<file name="permission_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131014943864676982" remote="131061186600000000" Dst="1" />
+<file name="permissoes_model-REMOVER.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="130948622360000000" remote="131061186600000000" Dst="1" />
+<file name="proventos_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131026072904065564" remote="131061186600000000" Dst="1" />
+<file name="relatorios_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131026089253393264" remote="131061186600000000" Dst="1" />
+<file name="sis_libera_modulos_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131014142011256276" remote="131061186600000000" Dst="1" />
+<file name="sis_perfil_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131006012016253019" remote="131061186600000000" Dst="1" />
+<file name="sis_usuario_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131015807320000000" remote="131061186600000000" Dst="1" />
+<file name="sis_unidade_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="130996978234682563" remote="131061186600000000" Dst="1" />
+<file name="substituicoes_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131026063634131155" remote="131061186600000000" Dst="1" />
+<file name="tabelafretecliente_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131045113481862563" remote="131061186600000000" Dst="1" />
+<file name="tabelafretefuncionario_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131026074352793468" remote="131061186600000000" Dst="1" />
+<file name="tabelafrete_model.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="131043589289813654" remote="131061186600000000" Dst="1" />
+<file name="usuarios_model-remover.php" server="ftp.parceirodenegocios.hospedagemdesites.ws/public_html/Administrar/" local="130948622560000000" remote="131061186600000000" Dst="1" />
+</dwsync>

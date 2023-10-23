@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mercadopago/dx-php": "2.1.1",
+        "developercielo/api-3.0-php": "^1.3",
+        "dompdf/dompdf": "^1.0"
+    }
+}

@@ -1,0 +1,159 @@
+#cssmenu,
+#cssmenu ul,
+#cssmenu ul li,
+#cssmenu ul li a {
+  width: 230px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  line-height: 1;
+  display: block;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-weight: normal;
+}
+#cssmenu {
+  font-family: Raleway, sans-serif;
+  color: #ffffff;
+}
+#cssmenu .icon-home{
+	font-size: 20px;
+}
+#cssmenu ul ul {
+  display: none;
+}
+#cssmenu > ul > li.active > ul {
+  display: block;
+}
+.align-right {
+  float: right;
+}
+#cssmenu > ul > li > a i{
+	font-size: 16px;
+}
+#cssmenu > ul > li > a {
+  padding: 16px 10px;
+  cursor: pointer;
+  z-index: 2;
+  font-size: 14px;
+  text-decoration: none;
+  color: #000;
+  background: #EDEDED;
+  -webkit-transition: color .2s ease;
+  -o-transition: color .2s ease;
+  transition: color .2s ease;
+}
+#cssmenu > ul > li > a:hover {
+  color: #000;
+  background-color: #CDCDCD;
+}
+#cssmenu ul > li.has-sub > a:after {
+  position: absolute;
+  right: 26px;
+  top: 19px;
+  z-index: 5;
+  display: block;
+  height: 10px;
+  width: 2px;
+  background: #CCC !important;
+  content: "";
+  -webkit-transition: all 0.1s ease-out;
+  -moz-transition: all 0.1s ease-out;
+  -ms-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+}
+#cssmenu ul > li.has-sub > a:before {
+  position: absolute;
+  right: 22px;
+  top: 23px;
+  display: block;
+  width: 10px;
+  height: 2px;
+  background: #CCC !important;
+  content: "";
+  -webkit-transition: all 0.1s ease-out;
+  -moz-transition: all 0.1s ease-out;
+  -ms-transition: all 0.1s ease-out;
+  -o-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+}
+#cssmenu ul > li.has-sub.open > a:after,
+#cssmenu ul > li.has-sub.open > a:before {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+#cssmenu ul ul ul .active{
+	background-color: #F5F5F5;
+  color: #333;
+  font-weight: bold;
+}
+#cssmenu ul ul{
+	background-color: #FFF;
+  color: #333;
+  border-right: 1px solid #EDEDED;
+}
+#cssmenu ul ul ul{
+	background-color: #EDEDED;
+  color: #333;
+}
+#cssmenu > ul > li {
+    border-bottom: 1px solid #6F6F6F;
+}
+#cssmenu ul ul .open a {
+}
+#cssmenu ul ul ul .active a {
+	color: #333;
+}
+#cssmenu ul ul .open a {
+	font-weight: bold;
+	color: red;
+}
+#cssmenu ul ul .open ul a {
+	color: #333 !important;
+	font-weight: normal;
+  	font-size: 13px;
+  	font-style: italic;
+}
+#cssmenu ul ul .open .active a {
+	color: #333 !important;
+  text-transform: uppercase;
+}
+#cssmenu ul ul li a {
+  padding: 14px 5px 14px 20px;
+  cursor: pointer;
+  z-index: 2;
+  font-size: 14px;
+  text-decoration: none;
+  color: #333;
+  /*background: #49505a;*/
+  -webkit-transition: color .2s ease;
+  -o-transition: color .2s ease;
+  transition: color .2s ease;
+}
+#cssmenu ul ul ul li a {
+  padding-left: 30px;
+}
+
+#cssmenu ul ul li .active a:hover {
+  background-color: #F5F5F5;
+  text-shadow: #333333 0 0 4px;
+}
+#cssmenu ul ul li a:hover {
+  background-color: #F5F5F5;
+}
+#cssmenu ul ul > li.has-sub > a:after {
+  top: 16px;
+  right: 26px;
+  background: #EDEDED;
+}
+#cssmenu ul ul > li.has-sub > a:before {
+  top: 20px;
+  background: #EDEDED;
+}

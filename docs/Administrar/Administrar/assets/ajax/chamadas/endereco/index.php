@@ -1,0 +1,1 @@
+﻿{"endereco":"GOUBER PINTO DIONÍSIO ","bairro":"CIC","cidade":"CURITIBA","estado":null,"cep":null,"numero":"35","capital":true}

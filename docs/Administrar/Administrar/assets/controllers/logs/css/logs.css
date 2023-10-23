@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+.tab-content{overflow: visible;}
+.widget-box{border-bottom: 1px solid #CDCDCD;min-height: 250px}
+.container-fluid{padding-left: 0px !important;margin-top: 10px;}
+.widget-content{padding: 0px !important;}
+
+.div-filtro-logs, .div-resultado-filtro{margin: 10px 0 10px 15px;}
+.div-filtro-box{display: inline-block; margin-right: 20px;vertical-align: top;}
+
+#div-result-ajax{color: #808080;}
+.div-buttons{margin: 10px 0 0 5px;}
+.table-logs td{padding: 0 10px 0 2px;line-height: 25px;}
+.table-logs th{text-align: left;}
+.div-pages-registros{display: inline-block;background-color: #F7F7F7;border: 1px solid #9a9a9a;border-radius: 4px;padding: 0 8px; margin: 5px 2px;cursor: pointer;}
+.div-pages-selected{background-color: #466A8A;color: #fff;}
+
+.log-data-show{display: none;}
+.btn-log-data-show{cursor: pointer;}

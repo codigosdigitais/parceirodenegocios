@@ -1,0 +1,86 @@
+
+
+
+.input-xxlarge {
+  display: inline-block;
+  margin-bottom: 0;
+  vertical-align: middle;
+  /*width: 79%;*/
+}
+	
+	
+.line {
+  height: 40px;
+ /* width: 900px;*/
+  background: none;
+}
+
+
+.form-inline label {
+  width: 120px !important;
+  text-align: right;
+  margin-right: 7px;
+}
+.form-search label, .form-inline label, .form-search .btn-group, .form-inline .btn-group {
+  display: inline-block;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-mini {
+  width: 60px;
+}
+
+.input-small {
+  width: 90px;
+}
+
+.input-medium {
+  width: 150px;
+}
+
+.input-large {
+  width: 210px;
+}
+
+.input-xlarge {
+  width: 270px;
+}
+
+.input-xxlarge {
+  width: 744px;
+}
+
+button,
+input,
+select,
+textarea {
+  margin: 0;
+  font-size: 100%;
+  vertical-align: middle;
+}
+
+label, input, button, select, textarea {
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 20px;
+}
+label, select, button, input[type="button"], input[type="reset"], input[type="submit"], input[type="radio"], input[type="checkbox"] {
+  cursor: pointer;
+}
+user agent stylesheetlabel {
+  cursor: default;
+}
+
+fieldset {
+  display: block;
+}
+
+.form-horizontal .control-label {
+  float: left;
+  width: 160px;
+  padding-top: 5px;
+  text-align: right;
+}

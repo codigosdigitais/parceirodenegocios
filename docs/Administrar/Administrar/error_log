@@ -1,0 +1,87 @@
+[11-Sep-2023 10:25:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395
+[02-Oct-2023 08:31:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395
+[02-Oct-2023 08:31:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395
+[02-Oct-2023 08:31:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395
+[02-Oct-2023 09:57:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::cancelar() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:431
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->cancelar()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 431
+[02-Oct-2023 13:11:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::cancelar() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:431
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->cancelar()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 431
+[02-Oct-2023 13:13:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395
+[02-Oct-2023 13:13:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395
+[02-Oct-2023 13:13:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395
+[02-Oct-2023 13:38:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395
+[06-Oct-2023 16:01:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function row() on boolean in /home/parceirodeneg/public_html/Administrar/application/models/chamadaexterna_model.php:743
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/application/controllers/classes/ChamadaExternaClass.php(404): chamadaexterna_model->getPontosTabelaCidadeABC(NULL, '1', '5', '1', 1)
+#1 /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php(228): ChamadaExternaClass->calculaValorChamada()
+#2 /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php(108): Chamadas->popularCadastroChamada(false)
+#3 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->adicionar()
+#4 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#5 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/models/chamadaexterna_model.php on line 743
+[11-Oct-2023 12:52:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395
+[11-Oct-2023 12:52:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395
+[11-Oct-2023 12:52:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method chamadas_model::getChamadaServicos() in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php:395
+Stack trace:
+#0 /home/parceirodeneg/public_html/Administrar/system/core/CodeIgniter.php(359): Chamadas->excluir()
+#1 /home/parceirodeneg/public_html/Administrar/index.php(202): require_once('/home/parceirod...')
+#2 {main}
+  thrown in /home/parceirodeneg/public_html/Administrar/application/controllers/chamadas.php on line 395

@@ -1,0 +1,96 @@
+@CHARSET "ISO-8859-1";
+
+/*Cliente 148 - JC Entregas*/
+
+.div-chamada-page {
+	opacity:1;
+}
+.div-chamada-page:hover {
+	opacity:1;
+}
+
+#div-box-chamado-integracao {
+	position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+.div-chamada-box {
+    width: 616px;
+    height: 385px;
+	overflow:hidden;
+	border: none !important;
+}
+
+
+.div-chamada-title {
+	color: #3ea4aa;
+	font-family: 'Signika';
+    font-size: 18px;
+    height: 46px;
+    overflow: hidden;
+}
+.div-chamada-title div{
+    height: 23px;
+    overflow: hidden;
+}
+.div-address-add, .div-address-return-source {
+	color: #3ea4aa;
+}
+.div-login-cadastro {
+    background-color: #333333;
+}
+#div-btn-login span, #div-btn-logoff span {
+    color: #FF8011;	
+}
+.div-chamada-overflow {
+    height: 230px;
+}
+#div-chamada-minimize {
+	display: inline-block !important;
+	position:fixed;
+	right: 32px;
+	padding-left: 100px;
+/*	cursor:pointer;*/
+	width:21px;
+	height:21px;
+}
+#div-chamada-minimize div{
+	width:21px;
+	height:21px;
+	cursor:pointer;
+}
+
+.div-chamada-page select, .div-chamada-page input {
+	background-color: rgb(251, 251, 251);
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    padding-left: 4px;
+	color: #717171;
+}
+#div-address-vehicle {
+	margin-left: 32px;
+}
+.div-chamada-page .input-long {
+    width: 130px;
+}
+.div-chamada-page .input-short {
+	width: 29px;
+}
+.div-address-add, .div-address-return-source {
+	margin: 15px 0 0 32px;
+}
+.div-box-component span {
+	line-height: 20px;
+}
+.div-login-cadastro {
+    font-size: 13px !important;
+    border: 1px solid #D6D6D6 !important;
+    color: #fff !important;
+    padding: 10px 13px !important;
+    cursor: pointer !important;
+}
+
+#observation{    
+	margin: 22px 0 0 10px;
+	width:396px;
+}
